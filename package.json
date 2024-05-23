@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "name": "oop_my_bank_by_abeera204",
+  "version": "1.0.0",
+  "description": "Object_oriented_programing_my bank",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AbeeraKhalid",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
